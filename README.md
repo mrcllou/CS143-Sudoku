@@ -1,4 +1,4 @@
-# CS143-Sudoku1
+# CS143-Sudoku
 
 Java program that reads a Sudoku puzzle from a .sdk file and prints it to the console. Built for CS143.
 
