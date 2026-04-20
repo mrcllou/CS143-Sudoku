@@ -1,6 +1,6 @@
 # CS143-Sudoku
 
-Java program that reads a Sudoku puzzle from a .sdk file and prints it to the console. Built for CS143.
+A Java program that reads a Sudoku puzzle 🧩 from a .sdk file and prints it to the console.
 
 ## Files
 - `SudokuBoard.java` - reads the puzzle file and stores the board <br/>
@@ -8,12 +8,16 @@ Java program that reads a Sudoku puzzle from a .sdk file and prints it to the co
 - `data1.sdk` - sample puzzle input file <br/>
 
 ## How to Run
-Make sure all files are in the same folder, then:
+Make sure all files are in the same folder ! Then:
 ```
-javac SudokuBoard.java Main.java
-java Main
+java SudokuBoard.java
+Main.java
+
 ```
 
 ## Notes
 - Empty cells in the .sdk file are periods (.), which get stored as spaces in the array
 - The board is a 9x9 2D char array
+
+## 📖 This is a homework:
+/!\ This is a Java program I wrote for a class assignment. /!\ 
