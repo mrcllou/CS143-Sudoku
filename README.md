@@ -3,9 +3,9 @@
 Java program that reads a Sudoku puzzle from a .sdk file and prints it to the console. Built for CS143.
 
 ## Files
-- `SudokuBoard.java` - reads the puzzle file and stores the board
-- `Main.java` - creates a SudokuBoard object and prints it
-- `data1.sdk` - sample puzzle input file
+- `SudokuBoard.java` - reads the puzzle file and stores the board <br/>
+- `Main.java` - creates a SudokuBoard object and prints it <br/>
+- `data1.sdk` - sample puzzle input file <br/>
 
 ## How to Run
 Make sure all files are in the same folder, then:
